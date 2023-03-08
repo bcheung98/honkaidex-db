@@ -1,0 +1,317 @@
+[
+    {
+        "character": "Kiana Kaslana",
+        "battlesuits": [
+            {
+                "name": "White Comet",
+                "rank": "B",
+                "type": "MECH",
+                "damageType": "Physical",
+                "skills": {
+                    "basic": {
+                        "name": "",
+                        "description": "",
+                        "subskills": [
+                            {
+                                "name": "",
+                                "description": ""
+                            },
+                            {
+                                "name": "",
+                                "description": ""
+                            },
+                            {
+                                "name": "",
+                                "description": ""
+                            }
+                        ]
+                    },
+                    "special": {
+                        "name": "",
+                        "description": "",
+                        "subskills": [
+                            {
+                                "name": "",
+                                "description": ""
+                            },
+                            {
+                                "name": "",
+                                "description": ""
+                            },
+                            {
+                                "name": "",
+                                "description": ""
+                            }
+                        ]
+                    },
+                    "ultimate": {
+                        "name": "",
+                        "description": "",
+                        "subskills": [
+                            {
+                                "name": "",
+                                "description": ""
+                            },
+                            {
+                                "name": "",
+                                "description": ""
+                            },
+                            {
+                                "name": "",
+                                "description": ""
+                            }
+                        ]
+                    },
+                    "evasion": {
+                        "name": "",
+                        "description": "",
+                        "subskills": [
+                            {
+                                "name": "",
+                                "description": ""
+                            },
+                            {
+                                "name": "",
+                                "description": ""
+                            }
+                        ]
+                    },
+                    "passive": {
+                        "name": "",
+                        "description": "",
+                        "subskills": [
+                            {
+                                "name": "",
+                                "description": ""
+                            },
+                            {
+                                "name": "",
+                                "description": ""
+                            }
+                        ]
+                    },
+                    "leader": {
+                        "name": "",
+                        "description": "",
+                        "subskills": [
+                            {
+                                "name": "",
+                                "description": ""
+                            }
+                        ]
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "character": "Raiden Mei",
+        "battlesuits": [
+            {
+                "name": "Crimson Impulse",
+                "rank": "B",
+                "type": "BIO",
+                "damageType": "Physical",
+                "skills": {
+                    "basic": {
+                        "name": "",
+                        "description": "",
+                        "subskills": [
+                            {
+                                "name": "",
+                                "description": ""
+                            },
+                            {
+                                "name": "",
+                                "description": ""
+                            },
+                            {
+                                "name": "",
+                                "description": ""
+                            }
+                        ]
+                    },
+                    "special": {
+                        "name": "",
+                        "description": "",
+                        "subskills": [
+                            {
+                                "name": "",
+                                "description": ""
+                            },
+                            {
+                                "name": "",
+                                "description": ""
+                            },
+                            {
+                                "name": "",
+                                "description": ""
+                            }
+                        ]
+                    },
+                    "ultimate": {
+                        "name": "",
+                        "description": "",
+                        "subskills": [
+                            {
+                                "name": "",
+                                "description": ""
+                            },
+                            {
+                                "name": "",
+                                "description": ""
+                            },
+                            {
+                                "name": "",
+                                "description": ""
+                            }
+                        ]
+                    },
+                    "evasion": {
+                        "name": "",
+                        "description": "",
+                        "subskills": [
+                            {
+                                "name": "",
+                                "description": ""
+                            },
+                            {
+                                "name": "",
+                                "description": ""
+                            }
+                        ]
+                    },
+                    "passive": {
+                        "name": "",
+                        "description": "",
+                        "subskills": [
+                            {
+                                "name": "",
+                                "description": ""
+                            },
+                            {
+                                "name": "",
+                                "description": ""
+                            }
+                        ]
+                    },
+                    "leader": {
+                        "name": "",
+                        "description": "",
+                        "subskills": [
+                            {
+                                "name": "",
+                                "description": ""
+                            }
+                        ]
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "character": "Bronya Zaychik",
+        "battlesuits": [
+            {
+                "name": "Valkyrie Chariot",
+                "rank": "B",
+                "type": "PSY",
+                "damageType": "Physical",
+                "skills": {
+                    "basic": {
+                        "name": "",
+                        "description": "",
+                        "subskills": [
+                            {
+                                "name": "",
+                                "description": ""
+                            },
+                            {
+                                "name": "",
+                                "description": ""
+                            },
+                            {
+                                "name": "",
+                                "description": ""
+                            }
+                        ]
+                    },
+                    "special": {
+                        "name": "",
+                        "description": "",
+                        "subskills": [
+                            {
+                                "name": "",
+                                "description": ""
+                            },
+                            {
+                                "name": "",
+                                "description": ""
+                            },
+                            {
+                                "name": "",
+                                "description": ""
+                            }
+                        ]
+                    },
+                    "ultimate": {
+                        "name": "",
+                        "description": "",
+                        "subskills": [
+                            {
+                                "name": "",
+                                "description": ""
+                            },
+                            {
+                                "name": "",
+                                "description": ""
+                            },
+                            {
+                                "name": "",
+                                "description": ""
+                            }
+                        ]
+                    },
+                    "evasion": {
+                        "name": "",
+                        "description": "",
+                        "subskills": [
+                            {
+                                "name": "",
+                                "description": ""
+                            },
+                            {
+                                "name": "",
+                                "description": ""
+                            }
+                        ]
+                    },
+                    "passive": {
+                        "name": "",
+                        "description": "",
+                        "subskills": [
+                            {
+                                "name": "",
+                                "description": ""
+                            },
+                            {
+                                "name": "",
+                                "description": ""
+                            }
+                        ]
+                    },
+                    "leader": {
+                        "name": "",
+                        "description": "",
+                        "subskills": [
+                            {
+                                "name": "",
+                                "description": ""
+                            }
+                        ]
+                    }
+                }
+            }
+        ]
+    }
+]
