@@ -1,6 +1,7 @@
 [
     {
         "character": "Kiana Kaslana",
+        "weapon": "Pistols",
         "battlesuits": [
             {
                 "name": "White Comet",
@@ -106,6 +107,7 @@
     },
     {
         "character": "Raiden Mei",
+        "weapon": "Katanas",
         "battlesuits": [
             {
                 "name": "Crimson Impulse",
@@ -211,6 +213,7 @@
     },
     {
         "character": "Bronya Zaychik",
+        "weapon": "Cannons",
         "battlesuits": [
             {
                 "name": "Valkyrie Chariot",
