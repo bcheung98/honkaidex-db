@@ -6,7 +6,7 @@
             {
                 "name": "White Comet",
                 "rank": "B",
-                "type": "MECH",
+                "type": "Mech",
                 "damageType": "Physical",
                 "skills": {
                     "basic": {
@@ -112,7 +112,7 @@
             {
                 "name": "Crimson Impulse",
                 "rank": "B",
-                "type": "BIO",
+                "type": "Biologic",
                 "damageType": "Physical",
                 "skills": {
                     "basic": {
@@ -218,7 +218,7 @@
             {
                 "name": "Valkyrie Chariot",
                 "rank": "B",
-                "type": "PSY",
+                "type": "Psychic",
                 "damageType": "Physical",
                 "skills": {
                     "basic": {
