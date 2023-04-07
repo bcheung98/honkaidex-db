@@ -6,7 +6,7 @@
             {
                 "name": "White Comet",
                 "rank": "B",
-                "type": "Mech",
+                "type": "Mecha",
                 "damageType": "Physical",
                 "skills": {
                     "basic": {
