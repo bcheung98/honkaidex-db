@@ -8,6 +8,7 @@
                 "rank": "B",
                 "type": "Mecha",
                 "damageType": "Physical",
+                "coreStrengths": ["Burst", "Time Mastery", "Stun"],
                 "skills": {
                     "basic": {
                         "name": "",
@@ -114,6 +115,7 @@
                 "rank": "B",
                 "type": "Biologic",
                 "damageType": "Physical",
+                "coreStrengths": ["Bleed", "Burst", "Time Mastery"],
                 "skills": {
                     "basic": {
                         "name": "",
@@ -220,6 +222,7 @@
                 "rank": "B",
                 "type": "Psychic",
                 "damageType": "Physical",
+                "coreStrengths": ["Gather", "Ignite", "Time Mastery"],
                 "skills": {
                     "basic": {
                         "name": "",
