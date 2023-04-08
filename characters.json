@@ -270,7 +270,7 @@
                         "subskills": [
                             {
                                 "name": "Reactive Charge",
-                                "description": "When charging, Valkyrie has a barrier that blocks the next incoming attack and interrupts weak enemies. CD: <b class=\"text-number\">6.0s<br />. <b class=\"text-number\">80.0%<br /> of incoming damage can be blocked.",
+                                "description": "When charging, Valkyrie has a barrier that blocks the next incoming attack and interrupts weak enemies. CD: <b class=\"text-number\">6.0s</b>.<br /><b class=\"text-number\">80.0%<br /> of incoming damage can be blocked.",
                                 "unlock": ""
                             },
                             {
