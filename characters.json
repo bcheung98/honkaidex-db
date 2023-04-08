@@ -20,11 +20,13 @@
                         "subskills": [
                             {
                                 "name": "Comet Kata",
-                                "description": "Physical DMG dealt by each sequence of the 4-sequence Basic ATK increases by <b class=\"text-number\">143.0</b>."
+                                "description": "Physical DMG dealt by each sequence of the 4-sequence Basic ATK increases by <b class=\"text-number\">143.0</b>.",
+                                "unlock": ""
                             },
                             {
                                 "name": "Comet Break",
-                                "description": "When Basic/Combo ATK breaks an enemy shield, additionally deals <b class=\"text-number\">220.0%</b> ATK of Physical DMG against the target."
+                                "description": "When Basic/Combo ATK breaks an enemy shield, additionally deals <b class=\"text-number\">220.0%</b> ATK of Physical DMG against the target.",
+                                "unlock": ""
                             },
                             {
                                 "name": "Comet Impact",
@@ -39,11 +41,13 @@
                         "subskills": [
                             {
                                 "name": "<b class=\"text-highlight\">Switch</b>: Neko Stomp",
-                                "description": "Slams down on entry, dealing <b class=\"text-number\">600.0%</b> ATK of Physical DMG. Enemies interrupted receive <b class=\"text-debuff\">6 Stun Trauma</b>."
+                                "description": "Slams down on entry, dealing <b class=\"text-number\">600.0%</b> ATK of Physical DMG. Enemies interrupted receive <b class=\"text-debuff\">6 Stun Trauma</b>.",
+                                "unlock": ""
                             },
                             {
                                 "name": "<b class=\"text-highlight\">QTE</b>: Aerial Helix",
-                                "description": "QTE: Triggered when an enemy is knocked airborne. Deals <b>375%</b> ATK + <b class=\"text-number\">2250.0</b> of Physical DMG. The last hit inflicts <b class=\"text-debuff\">3 Stun Trauma</b>."
+                                "description": "QTE: Triggered when an enemy is knocked airborne. Deals <b>375%</b> ATK + <b class=\"text-number\">2250.0</b> of Physical DMG. The last hit inflicts <b class=\"text-debuff\">3 Stun Trauma</b>.",
+                                "unlock": ""
                             },
                             {
                                 "name": "Gravity Freak",
@@ -58,7 +62,8 @@
                         "subskills": [
                             {
                                 "name": "Valkyrie Impact",
-                                "description": "Burst activation deals <b class=\"text-number\">2610.0</b> Physical DMG to enemies nearby and inflicts <b class=\"text-debuff\">6 Stun Trauma</b> on them."
+                                "description": "Burst activation deals <b class=\"text-number\">2610.0</b> Physical DMG to enemies nearby and inflicts <b class=\"text-debuff\">6 Stun Trauma</b> on them.",
+                                "unlock": ""
                             },
                             {
                                 "name": "Valkyrie Barrier",
@@ -67,7 +72,8 @@
                             },
                             {
                                 "name": "Valkyrie Charge",
-                                "description": "Charges up once every <b class=\"text-number\">12.0s</b>. The next attack consumes the charge to inflict <b class=\"text-debuff\">6 Stun Trauma</b>."
+                                "description": "Charges up once every <b class=\"text-number\">12.0s</b>. The next attack consumes the charge to inflict <b class=\"text-debuff\">6 Stun Trauma</b>.",
+                                "unlock": ""
                             }
                         ]
                     },
@@ -77,11 +83,13 @@
                         "subskills": [
                             {
                                 "name": "Time Bender",
-                                "description": "Shortens CD of Time Fracture by <b class=\"text-number\">4.0s</b>."
+                                "description": "Shortens CD of Time Fracture by <b class=\"text-number\">4.0s</b>.",
+                                "unlock": ""
                             },
                             {
                                 "name": "Temporal Flow",
-                                "description": "Additionally restores <b class=\"text-number\">5.0</b> SP for the team when Ultimate Evasion triggers Time Fracture."
+                                "description": "Additionally restores <b class=\"text-number\">5.0</b> SP for the team when Ultimate Evasion triggers Time Fracture.",
+                                "unlock": ""
                             }
                         ]
                     },
@@ -91,7 +99,8 @@
                         "subskills": [
                             {
                                 "name": "Antimatter Rounds",
-                                "description": "Deal <b class=\"text-number\">50.0%</b> more DMG against shields."
+                                "description": "Deal <b class=\"text-number\">50.0%</b> more DMG against shields.",
+                                "unlock": ""
                             },
                             {
                                 "name": "Critical Mastery",
@@ -106,7 +115,8 @@
                         "subskills": [
                             {
                                 "name": "Guider",
-                                "description": "Team gains <b class=\"text-number\">18%</b> Max HP in battle."
+                                "description": "Team gains <b class=\"text-number\">18%</b> Max HP in battle.",
+                                "unlock": ""
                             }
                         ]
                     }
@@ -135,7 +145,8 @@
                         "subskills": [
                             {
                                 "name": "Relentless Slash",
-                                "description": "Increases Attack Speed by <b class=\"text-number\">15.0%</b> when Combo Hit Count exceeds <b>20</b>."
+                                "description": "Increases Attack Speed by <b class=\"text-number\">15.0%</b> when Combo Hit Count exceeds <b>20</b>.",
+                                "unlock": ""
                             },
                             {
                                 "name": "Blood Sakura",
@@ -155,11 +166,13 @@
                         "subskills": [
                             {
                                 "name": "<span class=\"text-highlight\">QTE</span>: Iaido Whirlwind",
-                                "description": "Switch entry unleashes an Insta-Slash.<br />QTE: Triggered upon shieldbreak or when an enemy is knocked airborne to launch Storm Slasher and deal <b>225%</b> + <b class=\"text-number\">400%</b> ATK of Physical DMG."
+                                "description": "Switch entry unleashes an Insta-Slash.<br />QTE: Triggered upon shieldbreak or when an enemy is knocked airborne to launch Storm Slasher and deal <b>225%</b> + <b class=\"text-number\">400%</b> ATK of Physical DMG.",
+                                "unlock": ""
                             },
                             {
                                 "name": "Airborne Whirlwind",
-                                "description": "Triggers a Combo ATK by tap-and-holding the [ATK] button during any Basic ATK."
+                                "description": "Triggers a Combo ATK by tap-and-holding the [ATK] button during any Basic ATK.",
+                                "unlock": ""
                             },
                             {
                                 "name": "Double Whirlwind",
@@ -174,7 +187,8 @@
                         "subskills": [
                             {
                                 "name": "Soul Power",
-                                "description": "Each strike of Amaterasu additionally deals <b class=\"text-number\">18.0%</b> ATK of Fire DMG. Can be triggered up to <b>17</b> times."
+                                "description": "Each strike of Amaterasu additionally deals <b class=\"text-number\">18.0%</b> ATK of Fire DMG. Can be triggered up to <b>17</b> times.",
+                                "unlock": ""
                             },
                             {
                                 "name": "Spirit Blade",
@@ -194,7 +208,8 @@
                         "subskills": [
                             {
                                 "name": "Insta-Slash",
-                                "description": "Triggered by tapping the [ATK] button after evasion. When evasion triggers Time Fracture, Insta-Slash deals additional <b class=\"text-number\">150.0%</b> ATK of Physical DMG."
+                                "description": "Triggered by tapping the [ATK] button after evasion. When evasion triggers Time Fracture, Insta-Slash deals additional <b class=\"text-number\">150.0%</b> ATK of Physical DMG.",
+                                "unlock": ""
                             },
                             {
                                 "name": "Inner Shade",
@@ -214,7 +229,8 @@
                         "subskills": [
                             {
                                 "name": "Piercing Blade",
-                                "description": "Increases Crit Rate by <b class=\"text-number\">20.0%</b> and Crit DMG by <b class=\"text-number\">30.0%</b> against an enemy with breached elite shield."
+                                "description": "Increases Crit Rate by <b class=\"text-number\">20.0%</b> and Crit DMG by <b class=\"text-number\">30.0%</b> against an enemy with breached elite shield.",
+                                "unlock": ""
                             }
                         ]
                     },
@@ -249,94 +265,108 @@
                 ],
                 "skills": {
                     "basic": {
-                        "name": "",
-                        "description": "",
+                        "name": "<span class=\"text-highlight\">Charge</span>: Particle Cannon",
+                        "description": "Charged cannon fire that deals greater DMG with higher charge sequence.<br /><br />Arm Switch: Charging mode changes with type of weapon equipped.",
                         "subskills": [
                             {
-                                "name": "",
-                                "description": ""
+                                "name": "Reactive Charge",
+                                "description": "When charging, Valkyrie has a barrier that blocks the next incoming attack and interrupts weak enemies. CD: <b class=\"text-number\">6.0s<br />. <b class=\"text-number\">80.0%<br /> of incoming damage can be blocked.",
+                                "unlock": ""
                             },
                             {
-                                "name": "",
-                                "description": ""
+                                "name": "Atomoic Radiation",
+                                "description": "Uncharged attacks inflict <b class=\"text-number\">2.0</b> <b class=\"text-debuff\">Ignite Trauma</b> on the target and nearby enemies.",
+                                "unlock": ""
                             },
                             {
-                                "name": "",
-                                "description": ""
+                                "name": "Chain Reaction",
+                                "description": "Basic ATKs and Charged ATKs gain <b class=\"text-number\">25.0%</b> to Total DMG Multiplier against ignited enemies.",
+                                "unlock": ""
                             }
                         ]
                     },
                     "special": {
-                        "name": "",
-                        "description": "",
+                        "name": "<span class=\"text-highlight\">Switch</span>: Gravity Shatter",
+                        "description": "Switch entry immediately unleashes a ground breaking attack.<br /><br />Ground Smasher: <b>150%</b> ATK of Physical DMG.",
                         "subskills": [
                             {
-                                "name": "",
-                                "description": ""
+                                "name": "Aerial Smasher",
+                                "description": "Gravity Shatter additionally deals <b class=\"text-number\">300%</b> ATK of Physical DMG against enemies knocked airborne.",
+                                "unlock": ""
                             },
                             {
-                                "name": "",
-                                "description": ""
-                            },
-                            {
-                                "name": "",
-                                "description": ""
+                                "name": "<span class=\"text-highlight\">QTE</span>: Super Gravity",
+                                "description": "QTE: Triggers when enemy is stunned, dealing 100% ATK + <b class=\"text-number\">4158.0</b> of Physical DMG. Knocks enemies airborne and casts Time Lock for 3s.",
+                                "unlock": ""
                             }
                         ]
                     },
                     "ultimate": {
-                        "name": "",
-                        "description": "",
+                        "name": "Grav Singularity",
+                        "description": "Summons a powerful black hole that draws in surrounding enemies.<br /><br />Black Hole: Lasts for <b>10s</b>, during which the caster is invincible.<br />Gravitational Collapse: Affected enemies significantly lose Ignore Interrupt and deal 50% less Total DMG.<br />SP Cost: <b>50</b>.<br />After unleashing the Ultimate, character switch is allowed, but Valkyrie Chariot will stay on battlefield during her Ultimate.",
                         "subskills": [
                             {
-                                "name": "",
-                                "description": ""
+                                "name": "Particle Beam",
+                                "description": "Enemies pulled by Grav Singularity receive <b class=\"text-number\">1.5</b> <b class=\"text-debuff\">Bleed Trauma</b> every second.",
+                                "unlock": ""
                             },
                             {
-                                "name": "",
-                                "description": ""
+                                "name": "Particle Fusion",
+                                "description": "Grav Singularity ends with an explosion which has a <b class=\"text-number\">100.0%</b> chance to stun enemies for <b>5s</b> and inflict <b class=\"text-debuff\">6 Stun Trauma</b>.",
+                                "unlock": "S"
                             },
                             {
-                                "name": "",
-                                "description": ""
+                                "name": "Gravity Wrench",
+                                "description": "Gain <b class=\"text-number\">30%</b> Ranged Physical DMG against enemies pulled in by Grav Singularity.",
+                                "unlock": "SSS"
                             }
                         ]
                     },
                     "evasion": {
-                        "name": "",
-                        "description": "",
+                        "name": "Dimension Shift",
+                        "description": "Enters temporary Dimension Shift to evade attacks.<br />Time Fracture: Triggers upon an Ultimate Evasion, slowing all enemies for <b>5s</b>. CD: <b>15s</b>.",
                         "subskills": [
                             {
-                                "name": "",
-                                "description": ""
+                                "name": "Time Lock",
+                                "description": "Increases charging speed by <b class=\"text-number\">100%</b> during Time Fracture.",
+                                "unlock": ""
                             },
                             {
-                                "name": "",
-                                "description": ""
+                                "name": "Quantum Lock",
+                                "description": "During Time Fracture and <b>1s</b> afterwards, all cannon shells and missiles hitting the enemy deal <b class=\"text-number\">25.0%</b> more Physical DMG.",
+                                "unlock": "A"
+                            },
+                            {
+                                "name": "Particle Rebuild",
+                                "description": "Shortens CD of Time Fracture by <b class=\"text-number\">8.0s</b>.",
+                                "unlock": "SS"
                             }
                         ]
                     },
                     "passive": {
-                        "name": "",
-                        "description": "",
+                        "name": "Passive",
+                        "description": "Passive bonuses apply automatically.",
                         "subskills": [
                             {
-                                "name": "",
-                                "description": ""
+                                "name": "Zero-G Barrier",
+                                "description": "Attacks against stunned and paralyzed enemies deal <b class=\"text-number\">110.0%</b> more Physical DMG.",
+                                "unlock": ""
                             },
                             {
-                                "name": "",
-                                "description": ""
+                                "name": "Particle Fusion",
+                                "description": "Uncharged and Charged Basic ATKs of cannon-type weapons deal <b class=\"text-number\">100.0%</b> more Crit DMG",
+                                "unlock": "S"
                             }
                         ]
                     },
                     "leader": {
-                        "name": "",
-                        "description": "",
+                        "name": "Reactive Armor",
+                        "description": "Leader Bonus: Team takes <b>20%</b> less Ranged Physical DMG.",
                         "subskills": [
                             {
-                                "name": "",
-                                "description": ""
+                                "name": "Reactive Armor",
+                                "description": "Team takes <b class=\"text-number\">28%</b> less Ranged Physical DMG.",
+                                "unlock": ""
                             }
                         ]
                     }
