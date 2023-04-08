@@ -12,7 +12,7 @@
                 "skills": {
                     "basic": {
                         "name": "Meteor Kata",
-                        "description": "5-sequence Gun Kata.<br /><br />1st Sequence: 100% ATK of Physical DMG.<br />2nd Sequence: 100% ATK of Physical DMG.<br />3rd Sequence: 100% ATK of Physical DMG.<br />4th Sequence: 150% x 2 ATK of Physical DMG.<br />5th Sequence: 250% ATK of Physical DMG.<br />",
+                        "description": "5-sequence Gun Kata.<br /><br />1st Sequence: <b>100%</b> ATK of Physical DMG.<br />2nd Sequence: <b>100%</b> ATK of Physical DMG.<br />3rd Sequence: <b>100%</b> ATK of Physical DMG.<br />4th Sequence: <b>150% x 2</b> ATK of Physical DMG.<br />5th Sequence: <b>250%</b> ATK of Physical DMG.<br />",
                         "subskills": [
                             {
                                 "name": "Comet Kata",
