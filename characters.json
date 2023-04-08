@@ -11,94 +11,98 @@
                 "coreStrengths": ["Burst", "Time Mastery", "Stun"],
                 "skills": {
                     "basic": {
-                        "name": "",
-                        "description": "",
+                        "name": "Meteor Kata",
+                        "description": "5-sequence Gun Kata.<br /><br />1st Sequence: 100% ATK of Physical DMG.<br />2nd Sequence: 100% ATK of Physical DMG.<br />3rd Sequence: 100% ATK of Physical DMG.<br />4th Sequence: 150% x 2 ATK of Physical DMG.<br />5th Sequence: 250% ATK of Physical DMG.<br />",
                         "subskills": [
                             {
-                                "name": "",
-                                "description": ""
+                                "name": "Comet Kata",
+                                "description": "Physical DMG dealt by each sequence of the 4-sequence Basic ATK increases by <b class=\"text-number\">143.0</b>."
                             },
                             {
-                                "name": "",
-                                "description": ""
+                                "name": "Comet Break",
+                                "description": "When Basic/Combo ATK breaks an enemy shield, additionally deals <b class=\"text-number\">220.0%</b> ATK of Physical DMG against the target."
                             },
                             {
-                                "name": "",
-                                "description": ""
+                                "name": "Comet Impact",
+                                "description": "When Basic ATK interrupts an enemy, it has a 40.0% chance to inflict <b class=\"text-debuff\">3 Stun Trauma</b> (CD: 7s).",
+                                "unlock": "SSS"
                             }
                         ]
                     },
                     "special": {
-                        "name": "",
-                        "description": "",
+                        "name": "<b class=\"text-highlight\">Combo</b>: Comet Fall",
+                        "description": "Attacks enemy with a double-kick, punting it into the air and then bringing it down.<br /><br />Punt: 50% ATK of Physical DMG.<br />Bring Down: 275% ATK of AOE Physical DMG.",
                         "subskills": [
                             {
-                                "name": "",
-                                "description": ""
+                                "name": "<b class=\"text-highlight\">Switch</b>: Neko Stomp",
+                                "description": "Slams down on entry, dealing <b class=\"text-number\">600.0%</b> ATK of Physical DMG. Enemies interrupted receive <b class=\"text-debuff\">6 Stun Trauma</b>."
                             },
                             {
-                                "name": "",
-                                "description": ""
+                                "name": "<b class=\"text-highlight\">QTE</b>: Aerial Helix",
+                                "description": "QTE: Triggered when an enemy is knocked airborne. Deals 375% ATK + <b class=\"text-number\">2,250.0</b> of Physical DMG. The last hit inflicts <b class=\"text-debuff\">3 Stun Trauma</b>."
                             },
                             {
-                                "name": "",
-                                "description": ""
+                                "name": "Gravity Freak",
+                                "description": "The 2nd sequence of Combo ATK and Neko Stomp additionally deal <b class=\"text-number\">1,125</b> Fire DMG against enemies with an unbroken Elite Shield.",
+                                "unlock": "S"
                             }
                         ]
                     },
                     "ultimate": {
-                        "name": "",
-                        "description": "",
+                        "name": "Neko-Charm!",
+                        "description": "Activates Valkyrie's burst mode and consumes SP.<br /><br />Burst: Consumes SP continuously to gain Attack Speed and Ignore Interrupt.<br />Consumes 20 SP (at over 100 SP) to activate and 10 SP/s afterwards until SP is depleted; max duration: 60s.",
                         "subskills": [
                             {
-                                "name": "",
-                                "description": ""
+                                "name": "Valkyrie Impact",
+                                "description": "Burst activation deals <b class=\"text-number\">2,610.0</b> Physical DMG to enemies nearby and inflicts <b class=\"text-debuff\">6 Stun Trauma</b> on them."
                             },
                             {
-                                "name": "",
-                                "description": ""
+                                "name": "Valkyrie Barrier",
+                                "description": "The team gains Ignore Interrupt and <b class=\"text-number\">100%</b> DEF during Burst.",
+                                "unlock": "S"
                             },
                             {
-                                "name": "",
-                                "description": ""
+                                "name": "Valkyrie Charge",
+                                "description": "Charges up once every <b class=\"text-number\">12.0s</b>. The next attack consumes the charge to inflict <b class=\"text-debuff\">6 Stun Trauma</b>."
                             }
                         ]
                     },
                     "evasion": {
-                        "name": "",
-                        "description": "",
+                        "name": "Neko Cartwheel",
+                        "description": "Quickly cartwheel to evade enemy attacks. Can be performed twice in a row.<br /><br />Ultimate Evasion triggers 3s of Global Time Fracture. CD: 15s.<br />Tap [ATK] after Ultimate Evasion to connect into Comet Fall.",
                         "subskills": [
                             {
-                                "name": "",
-                                "description": ""
+                                "name": "Time Bender",
+                                "description": "Shortens CD of Time Fracture by <b class=\"text-number\">4.0s</b>."
                             },
                             {
-                                "name": "",
-                                "description": ""
+                                "name": "Temporal Flow",
+                                "description": "Additionally restores <b class=\"text-number\">5.0</b> SP for the team when Ultimate Evasion triggers Time Fracture."
                             }
                         ]
                     },
                     "passive": {
-                        "name": "",
-                        "description": "",
+                        "name": "Passive",
+                        "description": "Passive bonuses apply automatically.",
                         "subskills": [
                             {
-                                "name": "",
-                                "description": ""
+                                "name": "Antimatter Rounds",
+                                "description": "Deal <b class=\"text-number\">50.0%</b> more DMG against shields."
                             },
                             {
-                                "name": "",
-                                "description": ""
+                                "name": "Critical Mastery",
+                                "description": "Gains <b class=\"text-number\">40.0%</b> Crit DMG at above 80% HP.",
+                                "unlock": "SS"
                             }
                         ]
                     },
                     "leader": {
-                        "name": "",
-                        "description": "",
+                        "name": "Comet Bless",
+                        "description": "Leader Bonus: Team gains 10% Max HP in battle.",
                         "subskills": [
                             {
-                                "name": "",
-                                "description": ""
+                                "name": "Guider",
+                                "description": "Team gains <b class=\"text-number\">18%</b> Max HP in battle."
                             }
                         ]
                     }
