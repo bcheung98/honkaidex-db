@@ -30,7 +30,7 @@
                         ]
                     },
                     "special": {
-                        "name": "<b class=\"text-highlight\">Combo</b>: Comet Fall",
+                        "name": "<span class=\"text-highlight\">Combo</span>: Comet Fall",
                         "description": "Attacks enemy with a double-kick, punting it into the air and then bringing it down.<br /><br />Punt: 50% ATK of Physical DMG.<br />Bring Down: 275% ATK of AOE Physical DMG.",
                         "subskills": [
                             {
