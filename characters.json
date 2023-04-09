@@ -124,6 +124,15 @@
                         ]
                     }
                 },
+                "rankUp": {
+                    "unlockCost": 0,
+                    "rankUpCosts": [
+                        ["B-A", 20],
+                        ["A-S", 50],
+                        ["S-SS", 100],
+                        ["SS-SSS", 200]
+                    ]
+                },
                 "release": {
                     "date": "March 22, 2018",
                     "version": "1.8"
@@ -256,6 +265,15 @@
                         ]
                     }
                 },
+                "rankUp": {
+                    "unlockCost": 10,
+                    "rankUpCosts": [
+                        ["B-A", 20],
+                        ["A-S", 50],
+                        ["S-SS", 100],
+                        ["SS-SSS", 200]
+                    ]
+                },
                 "release": {
                     "date": "March 22, 2018",
                     "version": "1.8"
@@ -291,7 +309,7 @@
                                 "unlock": ""
                             },
                             {
-                                "name": "Atomoic Radiation",
+                                "name": "Atomic Radiation",
                                 "description": "Uncharged attacks inflict <b class=\"text-number\">2.0</b> <b class=\"text-debuff\">Ignite Trauma</b> on the target and nearby enemies.",
                                 "unlock": ""
                             },
@@ -387,6 +405,15 @@
                             }
                         ]
                     }
+                },
+                "rankUp": {
+                    "unlockCost": 10,
+                    "rankUpCosts": [
+                        ["B-A", 20],
+                        ["A-S", 50],
+                        ["S-SS", 100],
+                        ["SS-SSS", 200]
+                    ]
                 },
                 "release": {
                     "date": "March 22, 2018",
@@ -514,6 +541,15 @@
                             }
                         ]
                     }
+                },
+                "rankUp": {
+                    "unlockCost": 10,
+                    "rankUpCosts": [
+                        ["B-A", 20],
+                        ["A-S", 50],
+                        ["S-SS", 100],
+                        ["SS-SSS", 200]
+                    ]
                 },
                 "release": {
                     "date": "March 22, 2018",
