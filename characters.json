@@ -8,11 +8,14 @@
                 "rank": "B",
                 "type": "Mecha",
                 "damageType": "Physical",
-                "coreStrengths": [
-                    "Burst",
-                    "Time Mastery",
-                    "Stun"
-                ],
+                "coreStrengths": ["Burst", "Time Mastery", "Stun"],
+                "stats": {
+                    "SSS": [2405, 204, 400, 224, 48],
+                    "SS": [2104, 196, 350, 196, 42],
+                    "S": [1804, 187, 300, 168, 36],
+                    "A": [1503, 179, 250, 140, 30],
+                    "B": [1202, 170, 200, 112, 24]
+                },
                 "skills": {
                     "basic": {
                         "name": "Meteor Kata",
@@ -137,11 +140,14 @@
                 "rank": "B",
                 "type": "Biologic",
                 "damageType": "Physical",
-                "coreStrengths": [
-                    "Bleed",
-                    "Burst",
-                    "Time Mastery"
-                ],
+                "coreStrengths": ["Bleed", "Burst", "Time Mastery"],
+                "stats": {
+                    "SSS": [1871, 102, 601, 128, 40],
+                    "SS": [1637, 98, 526, 112, 35],
+                    "S": [1403, 93, 451, 96, 30],
+                    "A": [1169, 89, 375, 80, 25],
+                    "B": [935, 85, 300, 64, 20]
+                },
                 "skills": {
                     "basic": {
                         "name": "Gotamashiki",
@@ -266,11 +272,14 @@
                 "rank": "B",
                 "type": "Psychic",
                 "damageType": "Physical",
-                "coreStrengths": [
-                    "Gather",
-                    "Ignite",
-                    "Time Mastery"
-                ],
+                "coreStrengths": ["Gather", "Ignite", "Time Mastery"],
+                "stats": {
+                    "SSS": [1603, 102, 534, 320, 32],
+                    "SS": [1403, 98, 467, 280, 28],
+                    "S": [1202, 93, 400, 240, 24],
+                    "A": [1002, 89, 334, 200, 20],
+                    "B": [801, 85, 267, 160, 16]
+                },
                 "skills": {
                     "basic": {
                         "name": "<span class=\"text-highlight\">Charge</span>: Particle Cannon",
@@ -396,6 +405,13 @@
                 "type": "Biologic",
                 "damageType": "Physical",
                 "coreStrengths": ["Heavy ATK", "Stun", "Time Mastery"],
+                "stats": {
+                    "SSS": [3207, 102, 534, 224, 40],
+                    "SS": [2806, 98, 467, 196, 35],
+                    "S": [2405, 93, 400, 168, 30],
+                    "A": [2004, 89, 334, 140, 25],
+                    "B": [1603, 85, 267, 112, 20]
+                },
                 "skills": {
                     "basic": {
                         "name": "<span class=\"text-highlight\">Charge</span>: Heavy Sword",
