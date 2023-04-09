@@ -557,5 +557,149 @@
                 }
             }
         ]
+    },
+    {
+        "character": "Theresa Apocalypse",
+        "weapon": "Crosses",
+        "battlesuits": [
+            {
+                "name": "Valkyrie Pledge",
+                "rank": "A",
+                "type": "Psychic",
+                "damageType": "Lightning",
+                "coreStrengths": ["Fast ATK", "Paralyze", "Time Mastery"],
+                "stats": {
+                    "SSS": [1871, 153, 468, 224, 48],
+                    "SS": [1637, 147, 409, 196, 42],
+                    "S": [1403, 141, 351, 168, 36],
+                    "A": [1169, 134, 292, 140, 30]
+                },
+                "skills": {
+                    "basic": {
+                        "name": "Spear of Brionac",
+                        "description": "Basic ATK: Mid-range 4-sequence attack using ethereal light lances.<br /><br />1st Sequence: <b>3</b> x <b>30%</b> ATK of Physical DMG.<br />2nd Sequence: <b>3</b> x <b>30%</b> of Physical DMG.<br />3rd Sequence: <b>4</b> x <b>45%</b> of Physical DMG.<br />4th Sequence: <b>3</b> x <b>75%</b> ATK of Physical DMG against enemies within a large AOE.",
+                        "subskills": [
+                            {
+                                "name": "Thunder Spear",
+                                "description": "Basic ATKs (including Charged ATKs) have a <b class=\"text-number\">8.0%</b> chance to strike enemies with Cross Light Spears, dealing <b class=\"text-number\">2400</b> Lightning DMG. CD: <b>3s</b>.",
+                                "unlock": ""
+                            },
+                            {
+                                "name": "Spear of Imprisonment",
+                                "description": "Cross Light Spear immobilizes the enemy for <b class=\"text-number\">3.00s</b>.",
+                                "unlock": "S"
+                            },
+                            {
+                                "name": "Blessing of Taranis",
+                                "description": "At <b>30</b> combo hits or higher, Basic ATK deals <b class=\"text-number\">30.0%</b> ATK of bonus Lightning DMG and inflicts minor Paralyze Trauma.",
+                                "unlock": "S"
+                            }
+                        ]
+                    },
+                    "special": {
+                        "name": "<span class=\"text-highlight\">Charge</span>: Piercing Spear",
+                        "description": "Charge during the 4-sequence Basic ATK to launch a piercing attack.<br /><br />Piercing Spear: Charge by holding the [ATK] button during the 4-sequence Basic ATK.<br />Reaches full charge in a short time, then release the [ATK] button to deal <b>3</b> x <b>135%</b> ATK of Physical DMG.",
+                        "subskills": [
+                            {
+                                "name": "Charged Thrust",
+                                "description": "Each hit of Piercing Spear has a <b class=\"text-number\">13.4%</b> chance to deal <b class=\"text-number\">225%</b> ATK of Lightning DMG and inflict <b class=\"text-debuff\">5 Paralyze Trauma</b>.",
+                                "unlock": ""
+                            },
+                            {
+                                "name": "<span class=\"text-highlight\">Switch</span>: Holy Lance",
+                                "description": "Immediately unleash Piercing Spear, dealing <b>3</b> x <b class=\"text-number\">211%</b> ATK of Physical DMG.",
+                                "unlock": ""
+                            },
+                            {
+                                "name": "<span class=\"text-highlight\">QTE</span>: Triple Spears",
+                                "description": "Triggers when an enemy is frozen. Unleashes <b>3</b> Piercing Spears in succession, each Spear dealing <b>3</b> x <b class=\"text-number\">190%</b> ATK of Physical DMG.",
+                                "unlock": "S"
+                            }
+                        ]
+                    },
+                    "ultimate": {
+                        "name": "Spearsss",
+                        "description": "Throws a spear into the air that transforms into a rain of holy javelins.<br /><br />Spearsss: Deals total Physical DMG equal to <b>25</b> x <b>75%</b> of ATK.<br />SP Cost: <b>75</b>.",
+                        "subskills": [
+                            {
+                                "name": "Debilitating Thunder",
+                                "description": "Each strike of the Ultimate has a <b class=\"text-number\">18.01</b> chance to impair the target, lowering its Ignore Interrupt and reducing its DEF by <b class=\"text-number\">80.0%</b> for <b>3.5s</b>.",
+                                "unlock": ""
+                            },
+                            {
+                                "name": "Thunderous Judgment",
+                                "description": "Each hit from the Ultimate additionally deals <b class=\"text-number\">40.0%</b> ATK of Lightning DMG.",
+                                "unlock": ""
+                            }
+                        ]
+                    },
+                    "evasion": {
+                        "name": "Time Refuge",
+                        "description": "Quick sideways dodge to evade enemy attack. Can be triggered 2 times in a row.<br /><br />After Ultimate Evasion, gain <b>40%</b> Move Speed for <b>3s</b>.<br />Time Fracture: Triggers Time Fracture upon an Ultimate Evasion, slowing all enemies for <b>3s</b>. CD: <b>15s</b>.",
+                        "subskills": [
+                            {
+                                "name": "Refuge Enhance",
+                                "description": "Increases the duration of Time Fracture by <b class=\"text-number\">2.50s</b>.",
+                                "unlock": ""
+                            },
+                            {
+                                "name": "Time Bender",
+                                "description": "Shortens CD of Ultimate Evasion by <b class=\"text-number\">4.00s</b>.",
+                                "unlock": ""
+                            },
+                            {
+                                "name": "Grace",
+                                "description": "After Time Fractured is triggered upon Ultimate Evasion, next deployed cross gains <b class=\"text-number\">45.0%</b> Total DMG Multiplier.",
+                                "unlock": "SSS"
+                            }
+                        ]
+                    },
+                    "passive": {
+                        "name": "Passive",
+                        "description": "Passive bonuses apply automatically.",
+                        "subskills": [
+                            {
+                                "name": "World's #1 Cutie",
+                                "description": "Gain <b class=\"text-number\">30.0</b> initial SP in battle. This bonus triggersr once every 10 minutes in Open World.",
+                                "unlock": ""
+                            },
+                            {
+                                "name": "I'm Mad",
+                                "description": "After deploying the cross, character gains <b class=\"text-number\">50.0%</b> Attack Speed.",
+                                "unlock": "S"
+                            },
+                            {
+                                "name": "Lightning Strike",
+                                "description": "When Combo Hit Count exceeds <b>50</b>, each hit of the next charged attack deals Combo Hit Count (max: <b class=\"text-number\">126</b>) x <b class=\"text-number\">56</b> Lightning DMG and knocks down the enemy; Combo Hit Counts reset to zero after the effect.",
+                                "unlock": "SS"
+                            }
+                        ]
+                    },
+                    "leader": {
+                        "name": "Our Pledge",
+                        "description": "Leader Bonus: Shortens duration of most debuffs by <b>25%</b> for the team. PSY-type characters gain <b>15%</b> Elemental DMG.",
+                        "subskills": [
+                            {
+                                "name": "Our Pledge",
+                                "description": "Leader Bonus: Shortens duration of most debuffs by <b class=\"text-number\">40%</b> for the team. PSY-type characters gain <b class=\"text-number\">24%</b> Elemental DMG.",
+                                "unlock": "SS"
+                            }
+                        ]
+                    }
+                },
+                "rankUp": {
+                    "unlockCost": 30,
+                    "rankUpCosts": [
+                        ["A-S", 50],
+                        ["S-SS", 100],
+                        ["SS-SSS", 200]
+                    ]
+                },
+                "release": {
+                    "date": "June 20, 2018",
+                    "version": "2.2.1"
+                }
+            }
+        ]
     }
 ]
