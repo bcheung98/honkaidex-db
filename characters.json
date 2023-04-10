@@ -19,7 +19,7 @@
                 "skills": {
                     "basic": {
                         "name": "Meteor Kata",
-                        "description": "5-sequence Gun Kata.<br /><br />1st Sequence: <b>100%</b> ATK of Physical DMG.<br />2nd Sequence: <b>100%</b> ATK of Physical DMG.<br />3rd Sequence: <b>100%</b> ATK of Physical DMG.<br />4th Sequence: <b>150% x 2</b> ATK of Physical DMG.<br />5th Sequence: <b>250%</b> ATK of Physical DMG.<br />",
+                        "description": "5-sequence Gun Kata.<br /><br />1st Sequence: <b>100%</b> ATK of Physical DMG.<br />2nd Sequence: <b>100%</b> ATK of Physical DMG.<br />3rd Sequence: <b>100%</b> ATK of Physical DMG.<br />4th Sequence: <b>150% x 2</b> ATK of Physical DMG.<br />5th Sequence: <b>250%</b> ATK of Physical DMG.",
                         "subskills": [
                             {
                                 "name": "Comet Kata",
@@ -33,7 +33,7 @@
                             },
                             {
                                 "name": "Comet Impact",
-                                "description": "When Basic ATK interrupts an enemy, it has a 40.0% chance to inflict <b class=\"text-debuff\">3 Stun Trauma</b> (CD: 7s).",
+                                "description": "When Basic ATK interrupts an enemy, it has a <b class=\"text-number\">40.0%</b> chance to inflict <b class=\"text-debuff\">3 Stun Trauma</b> (CD: 7s).",
                                 "unlock": "SSS"
                             }
                         ]
@@ -128,6 +128,149 @@
                     "unlockCost": 0,
                     "rankUpCosts": [
                         ["B-A", 20],
+                        ["A-S", 50],
+                        ["S-SS", 100],
+                        ["SS-SSS", 200]
+                    ]
+                },
+                "release": {
+                    "date": "March 22, 2018",
+                    "version": "1.8"
+                }
+            },
+            {
+                "name": "Valkyrie Ranger",
+                "rank": "A",
+                "type": "Mecha",
+                "damageType": "Physical",
+                "coreStrengths": ["Bleed", "Gather"],
+                "stats": {
+                    "SSS": [2138, 102, 532, 224, 56],
+                    "SS": [1871, 98, 467, 196, 49],
+                    "S": [1603, 93, 400, 168, 42],
+                    "A": [1336, 89, 334, 140, 35]
+                },
+                "skills": {
+                    "basic": {
+                        "name": "Gyrodrive Kata",
+                        "description": "Fire 4 shots in rapid succession.<br /><br />1st Shot: <b>100%</b> ATK of Physical DMG.<br />2nd Shot: <b>100%</b> ATK of Physical DMG.<br />3rd Shot: <b>150%</b> ATK of Physical DMG.<br />4th Shot: <b>250%</b> ATK of Physical DMG.",
+                        "subskills": [
+                            {
+                                "name": "Concentrate Fire",
+                                "description": "Each repeated attack against the same target gains <b>2%</b> ATK Speed (max: <b class=\"text-number\">35%</b>). Effect resets if not attacking for <b>2s</b> or switching targets.",
+                                "unlock": ""
+                            },
+                            {
+                                "name": "Bleeding Shot",
+                                "description": "When Basic ATK scores a Crit, it has a <b class=\"text-number\">80%</b> chance to inflict <b class=\"text-debuff\">2 Bleed Trauma</b> (CD: 1s).",
+                                "unlock": ""
+                            },
+                            {
+                                "name": "<span class=\"text-highlight\">QTE</span>: Meteor Shower",
+                                "description": "Triggers when an enemy is frozen, dealing <b>600%</b> ATK of Physical DMG against a single target. Last hit of the QTE deals <b class=\"text-number\">400.1%</b> ATK of AOE Physical DMG and impairs the target, reducing their DEF by <b>60%</b> for <b>6s</b>.",
+                                "unlock": ""
+                            }
+                        ]
+                    },
+                    "special": {
+                        "name": "<span class=\"text-highlight\">Combo</span>: Aerolite Impact",
+                        "description": "Fires a Power Shot after <b>3</b> consecutive shots.<br /><br />Power Shot: <b>350%</b> ATK of Physical DMG to all targets in a straight line.",
+                        "subskills": [
+                            {
+                                "name": "Comet Blast",
+                                "description": "When Combo ATK scores a Crit, it has a <b class=\"text-number\">50.0%</b> chance to inflict <b class=\"text-debuff\">3 Stun Trauma</b>.",
+                                "unlock": ""
+                            },
+                            {
+                                "name": "Nova Barrage",
+                                "description": "Combo ATK additionally deals <b class=\"text-number\">296</b> Physical DMG against the target.",
+                                "unlock": "S"
+                            },
+                            {
+                                "name": "Falling Comet",
+                                "description": "When performing Combo ATKs, gains Ignore Interrupt and <b class=\"text-number\">60.0%</b> DEF.",
+                                "unlock": "SS"
+                            }
+                        ]
+                    },
+                    "ultimate": {
+                        "name": "Gungnir Fire",
+                        "description": "Summons a Valkyrie heavy cannon to blast away at enemies before her.<br /><br />Uncanny Cannon: Up to <b>1200%</b> ATK of Physical DMG.<br />SP Cost: <b>50</b>.",
+                        "subskills": [
+                            {
+                                "name": "Valkyrie Impact",
+                                "description": "The last hit of the Ultimate inflicts <b class=\"text-debuff\">6 Stun Trauma</b>.",
+                                "unlock": ""
+                            },
+                            {
+                                "name": "Valkyrie Impulse",
+                                "description": "During Ultimate, tap [ATK] repeatedly to additionally deal <b class=\"text-number\">371</b> Fire DMG for each tap (max: <b>15</b> times).",
+                                "unlock": "S"
+                            },
+                            {
+                                "name": "Valkyrie Frenzy",
+                                "description": "Ultimate gains <b class=\"text-number\">20.0%</b> Crit DMG.",
+                                "unlock": "SSS"
+                            }
+                        ]
+                    },
+                    "evasion": {
+                        "name": "Singularity",
+                        "description": "Quickly cartwheels away to evade enemy attacks. Can be performed twice in a row.<br /><br />Energy Black Hole: Triggers upon an Ultimate Evasion. Lasts for <b>2s</b>, during which it pulls in enemies nearby. CD: <b>10s</b>.",
+                        "subskills": [
+                            {
+                                "name": "Star Sprint",
+                                "description": "After evasion or battle entry, gain <b class=\"text-number\">70.0%</b> Move Speed for <b class=\"text-number\">4.0s</b>. CD: <b>6s</b>.",
+                                "unlock": ""
+                            },
+                            {
+                                "name": "Time Bender",
+                                "description": "Shortens CD of Ultimate Evasion by <b class=\"text-number\">3.0s</b>.",
+                                "unlock": ""
+                            },
+                            {
+                                "name": "Nova Collapse",
+                                "description": "Extends the duration of Energy Black Hole to <b class=\"text-number\">5.0s</b> and expands the pull-in range by <b class=\"text-number\">6.0</b> meters.",
+                                "unlock": "S"
+                            }
+                        ]
+                    },
+                    "passive": {
+                        "name": "Passive",
+                        "description": "Passive bonuses apply automatically.",
+                        "subskills": [
+                            {
+                                "name": "Antimatter Rounds",
+                                "description": "Deal <b class=\"text-number\">60.0%</b> more DMG against shields.",
+                                "unlock": ""
+                            },
+                            {
+                                "name": "Shattering Blow",
+                                "description": "Breaking an enemy shield deals <b class=\"text-number\">100%</b> ATK of Physical DMG and inflicts <b class=\"text-debuff\">3 Stun Trauma</b>.",
+                                "unlock": ""
+                            },
+                            {
+                                "name": "Critical Mastery",
+                                "description": "Gain <b class=\"text-number\">10.0%</b> Crit DMG. Deal <b class=\"text-number\">50.0%</b> more Crit DMG against Frozen enemies.",
+                                "unlock": "SS"
+                            }
+                        ]
+                    },
+                    "leader": {
+                        "name": "Flying Comet",
+                        "description": "Leader Bonus: Team gains <b>10%</b> Move Speed. MECH-type characters gain <b>5%</b> Attack Speed.",
+                        "subskills": [
+                            {
+                                "name": "Speed Boost",
+                                "description": "Team gains <b class=\"text-number\">25%</b> Move Speed. MECH-type characters gain <b class=\"text-number\">14%</b> Attack Speed.",
+                                "unlock": "S"
+                            }
+                        ]
+                    }
+                },
+                "rankUp": {
+                    "unlockCost": 30,
+                    "rankUpCosts": [
                         ["A-S", 50],
                         ["S-SS", 100],
                         ["SS-SSS", 200]
